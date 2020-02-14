@@ -1,0 +1,11 @@
+/Users/EvaNøhrLarsen/Desktop/TripleRiddle/obj/Debug/netcoreapp3.1/TripleRiddle.csprojAssemblyReference.cache
+/Users/EvaNøhrLarsen/Desktop/TripleRiddle/obj/Debug/netcoreapp3.1/TripleRiddle.AssemblyInfoInputs.cache
+/Users/EvaNøhrLarsen/Desktop/TripleRiddle/obj/Debug/netcoreapp3.1/TripleRiddle.AssemblyInfo.cs
+/Users/EvaNøhrLarsen/Desktop/TripleRiddle/bin/Debug/netcoreapp3.1/TripleRiddle
+/Users/EvaNøhrLarsen/Desktop/TripleRiddle/bin/Debug/netcoreapp3.1/TripleRiddle.deps.json
+/Users/EvaNøhrLarsen/Desktop/TripleRiddle/bin/Debug/netcoreapp3.1/TripleRiddle.runtimeconfig.json
+/Users/EvaNøhrLarsen/Desktop/TripleRiddle/bin/Debug/netcoreapp3.1/TripleRiddle.runtimeconfig.dev.json
+/Users/EvaNøhrLarsen/Desktop/TripleRiddle/bin/Debug/netcoreapp3.1/TripleRiddle.dll
+/Users/EvaNøhrLarsen/Desktop/TripleRiddle/bin/Debug/netcoreapp3.1/TripleRiddle.pdb
+/Users/EvaNøhrLarsen/Desktop/TripleRiddle/obj/Debug/netcoreapp3.1/TripleRiddle.dll
+/Users/EvaNøhrLarsen/Desktop/TripleRiddle/obj/Debug/netcoreapp3.1/TripleRiddle.pdb
